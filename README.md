@@ -11,7 +11,7 @@
       <img src="logo.png" alt="Logo de FOINDHC">
     </div>
     <h1>FundaciÃ³n FOINDHC</h1>
-    <p>Comprometidos con hacer la diferencia</p>
+    <p>Comprometidos con hacer la diferencia...</p>
   </header>
 
   <main>

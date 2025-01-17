@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FOIND - FundaciÃ³n</title>
+  <title>FOINDHC - FundaciÃ³n</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -17,7 +17,7 @@
   <main>
     <section class="about">
       <h2>Sobre Nosotros</h2>   <a href="https://foindhc.blogspot.com"><h4>visitanos</h4>https://foindhc.blogspot.com </a>
-      <p>En FOIND, trabajamos para impactar positivamente la vida de las personas a travÃ©s de proyectos sostenibles e inclusivos.</p>
+      <p>En FOINDHC,, trabajamos para impactar positivamente la vida de las personas a travÃ©s de proyectos sostenibles e inclusivos.</p>
     </section>
 
     <section class="projects">
@@ -44,7 +44,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 FOIND. Todos los derechos reservados.</p>
+    <p>&copy; 2025 FOINDHC. Todos los derechos reservados.</p>
   </footer>
 </body>
 </html>

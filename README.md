@@ -8,9 +8,9 @@
 <body>
   <header>
     <div class="logo">
-      <img src="logo.png" alt="Logo de FOIND">
+      <img src="logo.png" alt="Logo de FOINDHC">
     </div>
-    <h1>FundaciÃ³n FOIND</h1>
+    <h1>FundaciÃ³n FOINDHC</h1>
     <p>Comprometidos con hacer la diferencia</p>
   </header>
 
